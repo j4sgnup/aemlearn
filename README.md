@@ -2,8 +2,9 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--aemlearn--j4sgnup.aem.page/
+- Live: https://main--aemlearn--j4sgnup.aem.live/
+- Edit: https://da.live/#j4sgnup/aemlearn
 
 ## Documentation
 
